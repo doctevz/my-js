@@ -1,2 +1,3 @@
 # my-js
-my first js project
+My first js project
+
